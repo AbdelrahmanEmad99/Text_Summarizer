@@ -26,12 +26,15 @@ This project is a backend application for a text summarizer service. It provides
 ##### Swagger: API documentation tool for documenting and testing APIs.
 ##### Microsoft SQL Server: Database management system used for storing user data and text history.
 # Getting Started
-To run the project locally, follow these steps:
+###### To run the project locally, follow these steps:
 
-Clone this repository to your local machine.
-Open the solution file in Visual Studio.
-Update the database connection string in the appsettings.json file.
-Run the database migrations to create the required tables in the database.
-Build and run the application.
+###### Clone this repository to your local machine.
+###### Open the solution file in Visual Studio.
+
+###### Update the database connection string in the appsettings.json file.
+
+###### Run the database migrations to create the required tables in the database.
+
+###### Build and run the application.
 # API Documentation
-Swagger: The project utilizes Swagger, an API documentation tool, to automatically generate interactive API documentation. This documentation provides details about the available endpoints, request parameters, response schemas, and example requests and responses. Swagger UI allows developers to explore and test the APIs directly from their web browser.
+###### Swagger: The project utilizes Swagger, an API documentation tool, to automatically generate interactive API documentation. This documentation provides details about the available endpoints, request parameters, response schemas, and example requests and responses. Swagger UI allows developers to explore and test the APIs directly from their web browser.
